@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/oguzh/CLionProjects/classes/firstclass.h
+ostream
+-
+
+C:/Users/oguzh/CLionProjects/classes/main.cpp
+iostream
+-
+firstclass.h
+C:/Users/oguzh/CLionProjects/classes/firstclass.h
+clocale
+-
+cmath
+-
+string
+-
+typeinfo
+-
+
