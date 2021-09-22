@@ -6,15 +6,15 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/oguzh/CLionProjects/classes/firstclass.h
+/home/hitratux/CLionProjects/c-pp-class-example-project/firstclass.h
 ostream
 -
 
-C:/Users/oguzh/CLionProjects/classes/main.cpp
+/home/hitratux/CLionProjects/c-pp-class-example-project/main.cpp
 iostream
 -
 firstclass.h
-C:/Users/oguzh/CLionProjects/classes/firstclass.h
+/home/hitratux/CLionProjects/c-pp-class-example-project/firstclass.h
 clocale
 -
 cmath

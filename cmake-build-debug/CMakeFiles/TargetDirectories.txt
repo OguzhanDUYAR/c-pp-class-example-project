@@ -1,3 +1,3 @@
-C:/Users/oguzh/CLionProjects/classes/cmake-build-debug/CMakeFiles/classes.dir
-C:/Users/oguzh/CLionProjects/classes/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/oguzh/CLionProjects/classes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/hitratux/CLionProjects/c-pp-class-example-project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/hitratux/CLionProjects/c-pp-class-example-project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/hitratux/CLionProjects/c-pp-class-example-project/cmake-build-debug/CMakeFiles/classes.dir

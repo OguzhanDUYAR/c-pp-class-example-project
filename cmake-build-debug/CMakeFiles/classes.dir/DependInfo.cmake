@@ -8,10 +8,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/oguzh/CLionProjects/classes/firstclass.cpp" "C:/Users/oguzh/CLionProjects/classes/cmake-build-debug/CMakeFiles/classes.dir/firstclass.cpp.obj"
-  "C:/Users/oguzh/CLionProjects/classes/main.cpp" "C:/Users/oguzh/CLionProjects/classes/cmake-build-debug/CMakeFiles/classes.dir/main.cpp.obj"
+  "/home/hitratux/CLionProjects/c-pp-class-example-project/firstclass.cpp" "/home/hitratux/CLionProjects/c-pp-class-example-project/cmake-build-debug/CMakeFiles/classes.dir/firstclass.cpp.o"
+  "/home/hitratux/CLionProjects/c-pp-class-example-project/main.cpp" "/home/hitratux/CLionProjects/c-pp-class-example-project/cmake-build-debug/CMakeFiles/classes.dir/main.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "MSVC")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
